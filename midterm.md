@@ -83,7 +83,7 @@ Goal
 
 **Authenticity**: Alignment between one's inner feelings and your expressed behavior.
   * Can be a self-focused judgement or other-focused judgement, but they are not always aligned.
-  
+
 The Authenticity Paradox: Leaders need to adapt to new roles without losing their sense of self, but flexibility is essential for growth
 
 * Self-perceived authenticity: The extent to which you feel authentic.
@@ -99,11 +99,21 @@ The Authenticity Paradox: Leaders need to adapt to new roles without losing thei
 3. We contain a multitude of selves, which can generate authenticity challenges.
 4. You can be true to yourself and adapt to your environment.
 
-## Leading People Week 3 
+## Week 3: Decision Making
+![alt text](./image/maut.png)
 
 ### Rational Approach 
 * **Boundary rational**: People are not infinitely rational, but they are rational within the boundaries of their cognitive limitations.
 * Satisfice: People make decisions that are good enough, rather than optimal.
+
+### MAUT: Multi-Attribute Utility Theory
+1. Identify the decision criteria.
+2. Assign weights to the criteria.
+3. Score each option on each criterion.
+4. Multiply the scores by the weights and sum them up and rate
+5. Choose the option with the highest score.
+
+> **Decision making bias**: 1. confirmation bias, 2.availability 3. representativeness.
 
 ### Confirmation Bias
 Tendency to seek out information that confirms our beliefs and ignore information that contradicts them.
@@ -113,7 +123,8 @@ Tendency to seek out information that confirms our beliefs and ignore informatio
   * e.g. Product management: Look for sign that things are going well and ignore signs that things are going poorly.
 
 -------- What do we do ----------------
-* Personal: Ask yourself what you might be wrong. Actively seek out disconfirmatory evidence.
+* Personal: Ask yourself what you might be wrong. Actively **seek out disconfirmatory** evidence.
+
 * Organizational: 
   * Reward decision making process not just outcomes.
   * instututionalize dissent.
@@ -123,6 +134,7 @@ Tendency to seek out information that confirms our beliefs and ignore informatio
 -------- What do we do ----------------
 * Is it plausible that subjects not included in the sample exhibit the same behavior?
 * Are all 4 cells of the 2x2 table filled?
+![alt text](./image/sampling.png)
 
 3. **Egocentrism/Overconfidence**: Overestimating our own abilities and knowledge, which is greater than the objective accuracy of those abilities.
 
