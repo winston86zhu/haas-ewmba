@@ -120,7 +120,7 @@ Tendency to seek out information that confirms our beliefs and ignore informatio
 1. **Confirmation trap**: Seeking out information that confirms our beliefs.
   * e.g. M&A: Buyers gather data to support their decision to buy and overlook data that suggests otherwise.
   * e.g. Personnel decisions: Managers focus on the positive aspects of a candidate and ignore the negative aspects.
-  * e.g. Product management: Look for sign that things are going well and ignore signs that things are going poorly.
+  * e.g. Product management: A company may launch a product based only on positive internal feedback, ignoring external warnings of potential failure
 
 -------- What do we do ----------------
 * Personal: Ask yourself what you might be wrong. Actively **seek out disconfirmatory** evidence.
@@ -150,13 +150,14 @@ BTAE is larger:
   * Work on self-awareness by incorporating external tools and "helpful" comparisons.
 
 ### Availability
-Tendency for people to based judgements on recent or readily available information and pay little attention to relevant historical data. 
+Tendency for people to based judgements on **recent or readily available** information and pay little attention to relevant historical data. 
 * Retrievability: memory structure affect the search process 
   * e.g. Recent performance holds undue weight in performance evaluations.
 * Ease of recall: Making decision based on vividness of information.
   * e.g. Annual fatalities from shark attacks are 10x less than fatalities from falling coconuts, but people are more afraid of sharks.
 * Anchoring: Paying attention to irrevant "anchors" when making decisions.
   * e.g. Real estate agents use the listing price as an anchor.
+  * e.g. Do you think average German car costs more or less than $100,000? (100,000 is an anchor - can be random)
 
 ### Representativeness
 Tendency to assume a member of a group has the same characteristics as the group itself.
@@ -211,6 +212,11 @@ Positive vs Negative Feedback
 * Negative feedback: Corrects mistakes and improves performance. Works best for those who are already committed to the task.
 
 > Feedback should be provided frequently, specific, and actionable.
+* Feedback should be given in a timely manner.
+* Feedbacj should be specific and candid vs vague and general.
+* Feedback should be future-oriented and focused on improvement.
+* Frame negative feedback as a pathway to improvement.
+* Give feedback in a private setting, and do in the morning!
 
 ### Rewards
 
@@ -247,10 +253,11 @@ Good reward system can be spoiled by perceived unfairness, a lack of attetion an
 ### How team operate
 1. Divide and conquer
 2. Aggregate information
-  * wisdom of the crowd: the collective opinion of a group of individuals is often more accurate than that of a single expert.
+  * Key Concept: The wisdom of crowds often leads to accurate decisions, but only when diversity, independence, and decentralization are present.
+    * Example: Decentralized social networks where all opinions are weighted equally result in more accurate decisions.
   * **social loafing:** the tendency of individuals to exert less effort when working in a group than when working alone.
 3. Expertise 
-  * **groupthink**: the tendency of group members to conform, resulting in a narrow view of the problem.
+  * **groupthink**: the tendency of group members to conform, resulting in a narrow view of the problem. Teams that allow diverse input and decentralization `avoid "groupthink"` and leverage the true wisdom of the crowd.
 
 
 
