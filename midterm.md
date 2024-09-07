@@ -1,0 +1,223 @@
+# Haas Leading People Midterm
+
+## Leading People Week 1 
+
+### Management vs. Leadership
+* Good management and leadership will better align employee incentive and organizational goals.
+* Manager != Leader, becoming a good leader might require being a good manager.
+
+
+### Important Leadership Features
+* Employment Engagement: achieving organizational, retaining talent, and building a positive workplace culture.
+* Innovation: Creativity, experimentation, and continuois learning within the organization.
+* Transparency: Making decisions transparently and inclusively 
+* Strong organizational culture: Strong, supportive and collaborative culture.
+
+### Data and Evidence
+
+* Causal Inference: Establishing a cause-and-effect relationship between variables.
+  * e.g. Medical trials
+* Prediction: Predict the outcome accurately without establishing underlying causal  relationship.
+  * e.g. Demand forecasting
+
+### Experimental Design
+
+* Research participants: **Randomly(hallmark)** assign participants to treatment and control groups.
+ * If for practical reasons, random assignment is not possible, use **quasi-experimental** design.
+* Independent variable: The variable that is manipulated in experiment.
+* Dependent variable: The variable that is measured in experiment.
+![alt text](./image/image.png)
+  * Unfortunately,  we can never observe the same unit under both treatment and control conditions at the same time.
+To make the causal inference possible, we compute an average treatment effect (ATE) by studying a sample of subjects each of which was **randomly** assigned to either treatment or control group.
+
+### Challenges in Experimental Design
+
+* Small sample size: Reduces the statistical power of the experiment.
+  * Solution: Conduct a power analysis to determine the sample size needed to detect the effect of interest.
+* Non-Compliance: Dilutes the treatment effect.
+  * Solution: Monitoring, compliance incentives, and intention-to-treat analysis.
+* Contamination: When the control group is exposed to the treatment. This can obscure the difference.
+  * Solution: Physical separation and ensure clear communication about the treatment.
+* **Hawthorne Effect**: When participants change their behavior because they know they are being observed.
+  * Solution: Use a placebo group or a double-blind experiment.
+* Attrition: High dropout rate can bias the results, especially if the attrition rates differ between treatment and control groups.
+  * Solution: Use intention-to-treat or follow up protocals. 
+* Short-Duration: The treatment effect may not be observable in the short term.
+  * Solution: Be explicit about the time horizon of the study and consider long-term effects.
+
+## Leading People Week 2
+
+Goal
+> Know yourslf and your cognitive biases.
+> Understand other people's personalities and cognitive biases.
+
+**Dispositionism**: The tendency to attribute behavior to internal factors such as personality traits rather than external factors.
+**Neuroticism**: The tendency to experience negative emotions such as anxiety, depression, and anger.
+  * The big five model captures neuroticism
+
+### The big Five Personality Traits
+
+1. Extroversions: Outgoing, social, and assertive.
+   * HIgh extroversion is associated with leadership emergence --> Manager/Sales People.
+2. Agreeableness: Good-natured, cooperative, and warm.
+   * High agreeableness is associated with positive relationships, gratitude, and forgiveness --> Volunteer in community.
+3. Conscientiousness: Responsible, dependable, and organized.
+    * High conscientiousness is associated with job performance and extrinsic motivation --> Accountant.
+4. Openness to Experience: Creative, curious, and imaginative.
+    * High openness has been found to contribute to one's likelihood pf obtaining leadership positions. 
+5. Emotional Stability: Calm, secure, and self-confident.
+
+> Big 5 personality traits are fundamental core personality features to understand individual differences in behavior. 
+
+> However, they should NOT BE a driver of hiring or promotion decisions.
+
+### Authenticity 
+
+**Situationism**: The belief that behavior is determined by situational factors like immediate environment and social context (e.g Work Environment).
+![alt text](./image/authenticity.png)
+**Authenticity**: Alignment between one's inner feelings and your expressed behavior.
+  * Can be a self-focused judgement or other-focused judgement.
+
+* Self-perceived authenticity: The extent to which you feel authentic.
+  * rubust predictor of self-esteem, life satisfaction, and well-being.
+  * higher engagement and job satisfaction.
+* Other-perceived authenticity: The extent to which others perceive you as authentic.
+  * stakeholder perceptions of leadership effectiveness, employee engagement, and org culture.
+
+
+### Takeaways
+1. Personality tests can be useful for self-awareness, but have accuracy and inclusivity limitations.
+2. The Big Five and Dark Side traits provide a framework for understanding workspace behavior.
+3. We contain a multitude of selves, which can generate authenticity challenges.
+4. You can be true to yourself and adapt to your environment.
+
+## Leading People Week 3 
+
+### Rational Approach 
+* **Boundary rational**: People are not infinitely rational, but they are rational within the boundaries of their cognitive limitations.
+* Satisfice: People make decisions that are good enough, rather than optimal.
+
+### Confirmation Bias
+1. **Confirmation trap**: Seeking out information that confirms our beliefs.
+  * e.g. M&A: Buyers gather data to support their decision to buy and overlook data that suggests otherwise.
+  * e.g. Personnel decisions: Managers focus on the positive aspects of a candidate and ignore the negative aspects.
+  * e.g. Product management: Look for sign that things are going well and ignore signs that things are going poorly.
+
+-------- What do we do ----------------
+* Personal: Ask yourself what you might be wrong. Actively seek out disconfirmatory evidence.
+* Organizational: 
+  * Reward decision making process not just outcomes.
+  * instututionalize dissent.
+
+2. Sampling on dependent variable: Only looking at the data that supports our hypothesis.  
+  * e.g. Successful founders brush their teeth, so brushing teeth is a key to success.
+-------- What do we do ----------------
+* Is it plausible that subjects not included in the sample exhibit the same behavior?
+* Are all 4 cells of the 2x2 table filled?
+
+3. **Egocentrism/Overconfidence**: Overestimating our own abilities and knowledge, which is greater than the objective accuracy of those abilities.
+
+##### Better-than-average effect
+
+BTAE is larger:
+* personality traits
+* positive dimensions
+* simple, familiar tasks and tasks relevant to self-identity
+-------- What do we do ----------------
+* Personal: 
+  * Practice perspective-taking.
+  * Work on self-awareness by incorporating external tools and "helpful" comparisons.
+
+### Availability
+Tendency for people to based judgements on recent or readily available information and pay little attention to relevant historical data. 
+* Retrievability: memory structure affect the search process 
+  * e.g. Recent performance holds undue weight in performance evaluations.
+* Ease of recall: Making decision based on vividness of information.
+  * e.g. Annual fatalities from shark attacks are 10x less than fatalities from falling coconuts, but people are more afraid of sharks.
+* Anchoring: Paying attention to irrevant "anchors" when making decisions.
+  * e.g. Real estate agents use the listing price as an anchor.
+
+### Representativeness
+Tendency to assume a member of a group has the same characteristics as the group itself.
+![alt text](./image/fallacy.png)
+
+-------- What do we do ----------------
+* Collect good data and avoid assuming casual relationships.
+* Bring people together use collective intelligence.
+
+### Framing 
+The way information is presented can influence decision making.
+
+> Losts are more painful than gains are pleasurable.
+* People are risk-averse when the outcome is framed in terms of gains.
+* People are risk-seeking when the outcome is framed in terms of losses.
+![alt text](./image/Risk.png)
+
+-------- What do we do ----------------
+* Personal: 
+  * Consider the framing of the decision.
+  * Use a structured decision-making process.
+
+* Organizational:
+  * Use a structured decision-making process.
+  * Motivate towards change and risk: use loss frame ()
+  * Motivate towards stability and security: use gain frame 
+
+## Week 4: Movitation at Work
+
+### Expectancy Theory
+People are motivated to act in a certain way because they expect a particular outcome.
+> Motivation = Expectancy x Instrumentality x Valence
+* Expectancy: Effort -> Performance
+* Instrumentality: Performance -> Outcome
+* Valence: Outcome -> Satisfaction
+![alt text](./image/expectancy.png)
+
+### Feedback not easy
+
+Challenge
+* illusion of transparency: overestimating how well others understand our thoughts and feelings.
+* Sugarcoating: Softening the feedback to avoid hurting the recipient's feelings.
+  * Feedback sandwich: Positive feedback -> Negative feedback -> Positive feedback
+* Not specific enough: Vague feedback is not actionable.
+
+Positive vs Negative Feedback
+* Positive feedback: Reinforces good behavior and increases motivation. Works best for those not fully committed to the task.
+* Negative feedback: Corrects mistakes and improves performance. Works best for those who are already committed to the task.
+
+### Rewards
+
+1. Intrinsic vs Extrinsic motivation
+* Intrinsic motivation: Motivation that comes from within.
+  * e.g. Enjoying the task, feeling of accomplishment.
+* Extrinsic motivation: Rewards that have no effect on how enjoyable the task is.
+  * e.g. Money, praise, promotion.
+
+> Extrinsic rewards may erode intrinsic motivation.
+> If someone is already intrinsically motivated, extrinsic rewards may reduce their motivation.
+
+2. Immediate vs Delayed rewards
+
+Immediate rewards are more effective than delayed rewards.
+
+### Job Crafting 
+
+1. Task crafting: Changing the number, type, or nature of tasks.
+2. Relational crafting: Changing the number, type, or nature of relationships; style of interaction.
+3. Cognitive crafting: Changing the way you perceive the job.
+
+### Motivation and fairness
+
+Good reward system can be spoiled by perceived unfairness, a lack of attetion and lack of promised delivery.
+
+
+## Week 5: Teamwork 
+
+### How team operate
+1. Divide and conquer
+2. Aggregate information
+  * wisdom of the crowd: the collective opinion of a group of individuals is often more accurate than that of a single expert.
+3. Expertise 
+  * Groupthink difference and power difference can prevent the group from reaching the best decision.
+
+
