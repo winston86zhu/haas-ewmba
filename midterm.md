@@ -98,6 +98,7 @@ Goal
 * Satisfice: People make decisions that are good enough, rather than optimal.
 
 ### Confirmation Bias
+Tendency to seek out information that confirms our beliefs and ignore information that contradicts them.
 1. **Confirmation trap**: Seeking out information that confirms our beliefs.
   * e.g. M&A: Buyers gather data to support their decision to buy and overlook data that suggests otherwise.
   * e.g. Personnel decisions: Managers focus on the positive aspects of a candidate and ignore the negative aspects.
@@ -139,7 +140,11 @@ Tendency for people to based judgements on recent or readily available informati
 
 ### Representativeness
 Tendency to assume a member of a group has the same characteristics as the group itself.
+* e.g. Assuming a person who is a vegetarian is also an environmentalist.
 ![alt text](./image/fallacy.png)
+
+**Conjunction fallacy**: Assuming that the conjunction of two events is more likely than one of the events alone.
+  * e.g. Linda is a bank teller and is active in the feminist movement. Is it more likely that Linda is a bank teller or a bank teller and a feminist?
 
 -------- What do we do ----------------
 * Collect good data and avoid assuming casual relationships.
@@ -185,6 +190,8 @@ Positive vs Negative Feedback
 * Positive feedback: Reinforces good behavior and increases motivation. Works best for those not fully committed to the task.
 * Negative feedback: Corrects mistakes and improves performance. Works best for those who are already committed to the task.
 
+> Feedback should be provided frequently, specific, and actionable.
+
 ### Rewards
 
 1. Intrinsic vs Extrinsic motivation
@@ -208,6 +215,10 @@ Immediate rewards are more effective than delayed rewards.
 
 ### Motivation and fairness
 
+**halo effect**: The tendency to assume that someone who is good at one thing is good at everything.
+
+**input bias**: The tendency to overestimate the effort we put into a task.
+
 Good reward system can be spoiled by perceived unfairness, a lack of attetion and lack of promised delivery.
 
 
@@ -217,7 +228,10 @@ Good reward system can be spoiled by perceived unfairness, a lack of attetion an
 1. Divide and conquer
 2. Aggregate information
   * wisdom of the crowd: the collective opinion of a group of individuals is often more accurate than that of a single expert.
+  * **social loafing:** the tendency of individuals to exert less effort when working in a group than when working alone.
 3. Expertise 
-  * Groupthink difference and power difference can prevent the group from reaching the best decision.
+  * **groupthink**: the tendency of group members to conform, resulting in a narrow view of the problem.
+
+
 
 
