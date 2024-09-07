@@ -1,9 +1,9 @@
 # Haas Leading People Midterm
 
-## Leading People Week 1 
+## Week 1: Introduction
 
 ### Management vs. Leadership
-* Good management and leadership will better align employee incentive and organizational goals.
+> Good management and leadership will better align employee incentive and organizational goals.
 * Manager != Leader, becoming a good leader might require being a good manager.
 
 
@@ -23,12 +23,14 @@
 ### Experimental Design
 
 * Research participants: **Randomly(hallmark)** assign participants to treatment and control groups.
- * If for practical reasons, random assignment is not possible, use **quasi-experimental** design.
+  * If for practical reasons, random assignment is not possible, use **quasi-experimental** design.
 * Independent variable: The variable that is manipulated in experiment.
 * Dependent variable: The variable that is measured in experiment.
 ![alt text](./image/image.png)
   * Unfortunately,  we can never observe the same unit under both treatment and control conditions at the same time.
 To make the causal inference possible, we compute an average treatment effect (ATE) by studying a sample of subjects each of which was **randomly** assigned to either treatment or control group.
+
+**The risk of confounding variables**: Variables that are correlated with both the treatment and the outcome.
 
 ### Challenges in Experimental Design
 
@@ -45,13 +47,14 @@ To make the causal inference possible, we compute an average treatment effect (A
 * Short-Duration: The treatment effect may not be observable in the short term.
   * Solution: Be explicit about the time horizon of the study and consider long-term effects.
 
-## Leading People Week 2
+## Week 2: Know Yourself and Others
 
 Goal
 > Know yourslf and your cognitive biases.
 > Understand other people's personalities and cognitive biases.
 
 **Dispositionism**: The tendency to attribute behavior to internal factors such as personality traits rather than external factors.
+
 **Neuroticism**: The tendency to experience negative emotions such as anxiety, depression, and anger.
   * The big five model captures neuroticism
 
@@ -68,15 +71,20 @@ Goal
 5. Emotional Stability: Calm, secure, and self-confident.
 
 > Big 5 personality traits are fundamental core personality features to understand individual differences in behavior. 
+  * Other tests give you a type while big five put you in a scale of 1-5 for each trait.
 
 > However, they should NOT BE a driver of hiring or promotion decisions.
 
 ### Authenticity 
+> Dispositionisn and situationism meet at authenticity.
 
 **Situationism**: The belief that behavior is determined by situational factors like immediate environment and social context (e.g Work Environment).
 ![alt text](./image/authenticity.png)
+
 **Authenticity**: Alignment between one's inner feelings and your expressed behavior.
-  * Can be a self-focused judgement or other-focused judgement.
+  * Can be a self-focused judgement or other-focused judgement, but they are not always aligned.
+  
+The Authenticity Paradox: Leaders need to adapt to new roles without losing their sense of self, but flexibility is essential for growth
 
 * Self-perceived authenticity: The extent to which you feel authentic.
   * rubust predictor of self-esteem, life satisfaction, and well-being.
