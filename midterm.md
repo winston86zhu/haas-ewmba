@@ -164,6 +164,10 @@ Tendency to assume a member of a group has the same characteristics as the group
 * e.g. Assuming a person who is a vegetarian is also an environmentalist.
 ![alt text](./image/fallacy.png)
 
+Examples:
+* REPRESENTATIVENESS: INSENSITIVITY TO BASE RATES
+* REPRESENTATIVENESS: INSENSITIVITY TO SAMPLE SIZE
+
 **Conjunction fallacy**: Assuming that the conjunction of two events is more likely than one of the events alone.
   * e.g. Linda is a bank teller and is active in the feminist movement. Is it more likely that Linda is a bank teller or a bank teller and a feminist?
 
@@ -243,7 +247,7 @@ Immediate rewards are more effective than delayed rewards.
 
 **halo effect**: The tendency to assume that someone who is good at one thing is good at everything.
 
-**input bias**: The tendency to overestimate the effort we put into a task.
+**input bias**: only successful companies are studied, while failures are ignored
 
 Good reward system can be spoiled by perceived unfairness, a lack of attetion and lack of promised delivery.
 
@@ -259,6 +263,22 @@ Good reward system can be spoiled by perceived unfairness, a lack of attetion an
 3. Expertise 
   * **groupthink**: the tendency of group members to conform, resulting in a narrow view of the problem. Teams that allow diverse input and decentralization `avoid "groupthink"` and leverage the true wisdom of the crowd.
 
+### Challenges of Teams: 
+Teams can face challenges like **excessive cohesion**, which can lead to conformity and groupthink, suppressing dissent and reducing decision quality.
 
+**Encouraging Cohesiveness**: Team cohesiveness can be encouraged by making the group smaller, aligning on group goals, spending more time together, increasing the status of group membership, stimulating competition with other groups, and rewarding the group as a whole.
 
+### How Google Sold Its Engineers on Management
+
+Key Takeaways:
+* Google’s engineers were initially skeptical about the value of managers. Project Oxygen used data to demonstrate that good management matters.
+* The project identified eight key behaviors of effective managers and helped integrate these behaviors into Google’s culture.
+
+Key Concepts:
+
+* Data-Driven Management: Google used data analysis to prove that management improves employee satisfaction, productivity, and retention.
+* Key Managerial Behaviors: Effective managers are good coaches, empower their teams, communicate well, and support career development.
+
+Example:
+Google discovered that employees with high-scoring managers reported higher satisfaction with innovation and career development. For instance, employees appreciated managers who provided stretch assignments to foster growth.
 
