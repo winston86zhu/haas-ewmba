@@ -43,7 +43,7 @@ Marginal Revenue and Elasticity
 > MR = P(1 + 1/|E|)
 
   * Perfectly Elastic: When E = infinity, MR = P
-  * Elastic: When |E| > 1, 0 < MR < P
+  * Elastic (When demand is elastic): When |E| > 1, 0 < MR < P
   * Unit Elastic: When |E| = 1, MR = 0
     * Maximizing revenue: MR = 0
   * Inelastic: When 0 < |E| < 1, MR < 0
@@ -61,6 +61,9 @@ Complex Pricing Strategies
 * Goal: Reduce size of consumer surplus and unexploited market
 * Perfect Price Discrimination (**1st-degree**): Charge each consumer their maximum willingness to pay
 ![alt text](./image/perfect_price.png)
+
+> This can be done with 2 markets have different price elasticity
+
 * Segment Pricing (**3rd-degree**): Charge different prices to different groups
   * Example: Software pricing for students, teachers, and businesses - Students are more price elastic
   * Example: Airline pricing for business and leisure travelers (5 day vs 14 day travel)
@@ -98,8 +101,11 @@ Auction
 * Auction Types
   * English Auction: Ascending price, last bidder wins
   * First-price Seal Auction: Sealed-bid, winner pays their bid
+    * Strategy: Bid less than(shade) your true value
   * Second-price Seal Auction: Sealed-bid, winner pays the second highest bid
+    * Strategy: Bid your true value
   * Dutch Auction: Descending price, first bidder wins
+> Beware of the winner's curse
 
 * Auction Assumptions
   * Private Value
@@ -136,7 +142,7 @@ Total and Marginal Costs
   * MC = delta(TC) / delta(Q)
 * You can use MC to determine price elasticity
   MC = P(1 + 1/|E|)
-* MC curve intersects the ATC curve at the **minimum point of the ATC curve**
+* MC curve intersects the ATC curve at the **minimum point of the ATC curve** (ATC = MC)
 * When determine P, use the Demand curve to map the price
 
 Economies of Scale
@@ -215,3 +221,62 @@ Monopolistic Equilibrium
 * Monopolist produces where MR = MC
 * Monopolist charges where demand curve intersects MR curve
 
+Monopolistic Competition
+* Number of firms: Many
+* Firms are **price searchers**
+* Barriers to entry: No
+* Long-run profit: No
+
+* Short-run profit: Yes (P > ATC)
+* Long-run profit: No (P = ATC)
+  * In the long run --> new firms enter --> demand curve shifts left and flattens --> price decreases
+
+The herfindahl index is a measure of market concentration
+* H = sum(squared market share)
+  * H = 1/N for perfect competition
+  * H = 1 for monopoly
+
+Regulating Monopoly
+* Price Cap 
+  * If we have a monopoly, we can regulate the price to be at the competitive price (P = MC as a competitive equilibrium)
+* Regulate mergers
+
+
+### Chapter 6.5: Game Theory
+
+Key Concepts
+* Play table: A table that shows the payoffs for each player in a game
+* Dominant strategy: A strategy that is best for a player regardless of the strategy chosen by the other player
+* Nash equilibrium: A situation in which each player is doing the best they can given the other player's strategy
+
+Collusion
+* Tacit collusion: Firms cooperate without explicit agreement
+  * Not illegal
+* Explicit collusion: Firms cooperate with an explicit agreement
+
+
+### Chapter 7: Principal-Agent Problem
+
+Two parties: Principal and Agent
+* Agent: Person who acts on behalf of the principal (usually have more information)
+* Principal: Person who is affected by the agent's actions
+
+Solution to Principal-Agent Problem
+* Incentive alignment: Align the agent's incentives with the principal's goals
+* Address information asymmetry: Make sure the principal has the same information as the agent
+
+Adverse Selection
+* Adverse selection: When one party has more information than the other before a transaction/decision
+  * Example: Used car market
+  * Example: Labor market - Employers can't tell how productive a worker will be
+  * Example: Financial market - Lenders can't tell how risky a borrower is
+  * Example: Health insurance - Insurers can't tell how healthy a person is
+
+* Adverse selection can cause market failure
+  * Example: If only high-risk people buy insurance, the insurance company will go bankrupt
+
+* Solutions to adverse selection
+  * Screening: Actions taken by an uninformed party to induce an informed party to reveal private information
+    * Example: Employers use interviews to screen job 
+  * Risk pooling: Combining risks to reduce the impact of adverse selection
+    * Example: Group health insurance
