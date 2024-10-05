@@ -308,8 +308,8 @@ ZOPA: Zone of Possible Agreement
 ### Steps in Negotiation
 
 1. Establish interests 
-* positions: what you want
-* interests: why you want it
+* positions (stated request): what you want 
+* interests (underlying need): Private interests behind the position. 
 * Multiple-issue agenda: Identify multiple issues to negotiate on.
   * Breakdown single issue into multiple issues.
   * Think of other interests and related issues.
@@ -367,6 +367,8 @@ How do leaders shape behavior in organizations?
 
 2. By using persuasion
 * Persuasion leads to more voluntary cooperation and long-term commitment.
+* Informal power: Power that comes from your personal qualities.
+  * e.g. Charisma, expertise, and reputation.
 
 > Leaders combine power with effective persuasion -> increase influence without resorting to coercion.
 
@@ -396,7 +398,8 @@ What does network do
 
 Revere and Dawes Network 
 ![alt text](./image/network.png)
-* Revere: High diversity, low redundancy, brokerage 
+* **Revere**: High diversity, low redundancy, brokerage 
+  * Promote high external range and low internal density. 
 * Dawes: Low diversity, high redundancy, closure with no brokerage
 
 Structural holes: Gaps between groups that can be bridged by a broker.
@@ -412,6 +415,7 @@ Structural holes: Gaps between groups that can be bridged by a broker.
 
 ### Barrier to build diverse network
 * Homophily: Tendency to associate with similar others -> suppress opportunities to access new information.
+  * Prevent the minority from having access to the same information as the majority.
 > People tend to connect with similar people not just because of homophily but also due to **social influence**. Social network may provide resources and also shape the beliefs and behaviors of its members.
   * e.g. democratic social network -> more likely to be democratic.
 
@@ -430,7 +434,7 @@ Structural holes: Gaps between groups that can be bridged by a broker.
 
 ## Week 9: Organizational Culture
 
-> A strong culture is intensiely held and widely shared, and **consistently displayed**.
+> A strong culture is intensiely held and widely shared, and **consistently displayed**. It will need to be driven by the leadership-level.
 
 Create a strong culture
 1. **Selection**: Hire people who fit the culture.
@@ -444,12 +448,15 @@ How does culture affect behavior?
 3. **Shared Goal**: Increase commitment and to org-level goals.
 4. **Strategic position and differentiation**: Culture can fit org interests and employees' interests.
 
-Iceberg model of culture
+Schein's Iceberg model of culture
 * **Artifacts**: Visible symbols of culture.
   * e.g. Dress code, office layout, etc.
 * **Espoused Values**: Explicitly stated values and norms.
 * **Assumption**: Unconscious beliefs and values.
   * e.g. Google's assumption: "We are a family"
+
+Adopt orgaizational change 
+* The most effective way is to get buy-in from the influential people in the organization.
 
 ### Toxic Culture
 Toxic People: actions and behaviors that are harmful to others.
