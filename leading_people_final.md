@@ -294,6 +294,7 @@ Major pitfalls in negotiation:
 4. **Dynsfunctional rivalry**: Comparing your outcomes to others, rather than focusing on your own goals.
 
 > BATNA: Best Alternative to a Negotiated Agreement
+* In negotiations, it’s important to both create value (expanding the pie) and claim value (dividing the pie). 
 
 > Target point: The ideal outcome you would like to achieve.(ambitious yet plausible)
 
@@ -304,6 +305,10 @@ ZOPA: Zone of Possible Agreement
 * Overlapping range of reservation prices for both parties.
 * in some cases, ZOPA may not exist.
 ![alt text](./image/zopa.png)
+
+Contingent Contracts:
+* Contingent contracts (or bets) are useful when parties disagree about future outcomes. They allow each side to bet on their own predictions, potentially creating value and avoiding deadlock.
+
 
 ### Steps in Negotiation
 
@@ -455,6 +460,8 @@ Schein's Iceberg model of culture
 * **Assumption**: Unconscious beliefs and values.
   * e.g. Google's assumption: "We are a family"
 
+![alt text](./image/iceburg.png)
+
 Adopt orgaizational change 
 * The most effective way is to get buy-in from the influential people in the organization.
 
@@ -468,3 +475,27 @@ Toxic Environment: Environment that is harmful to employees' well-being.
 1. Successful leaders should actively shape and codify their organization's culture, enacting all levels. 
 2. Allign culture with organizational goals and values.
 3. Toxic people have long-lasting negative effects on the organization.
+
+## Article 1 - Persuading the Unpersuadable
+
+Adam Grant’s article delves into the art of persuading difficult individuals, using examples like Steve Jobs to illustrate how even the most confident and stubborn people can be influenced. **The key to persuasion, according to Grant, is to let people recognize the limitations of their own knowledge.** By asking them to explain their reasoning or break down complex processes, you can help them realize where their understanding falls short, making them more open to alternative ideas.
+
+The article outlines how different personalities respond to persuasion tactics. Know-it-alls, for example, are more likely to reconsider their positions when they are gently challenged to explain their views in detail. Stubborn individuals, on the other hand, may be more willing to shift their stance if they feel in control of the process. Grant emphasizes that effective persuasion often involves listening carefully, offering choices, and providing a sense of agency to the person you are trying to influence.
+By analyzing these techniques, Grant demonstrates that even the most challenging leaders can be swayed when approached strategically. Rather than confronting them head-on, successful persuaders use subtle methods to make overconfident individuals more aware of their own blind spots. This nuanced approach allows people to arrive at new conclusions on their own, making them more likely to accept and embrace change​
+
+
+## Articple 2 - Better People Analytics: Measure Who They Know, Not Just Who They Are
+
+The article emphasizes that traditional people analytics—focusing solely on individual traits like education, experience, and performance—is insufficient in predicting outcomes such as innovation, influence, or team success. Instead, relational analytics, which studies how individuals interact within networks, is a more effective predictor. The concept is based on understanding "structural signatures," which are patterns in social networks that reveal key behaviors.
+
+There are six structural signatures identified in relational analytics: **ideation (how people generate ideas), influence (who affects others’ behaviors), efficiency (how teams collaborate to meet deadlines), innovation (how teams generate new ideas), siloing (the degree of organizational isolation), and vulnerability** (identifying indispensable employees). By mining data from emails, chats, and file sharing, companies can apply relational analytics to better understand and optimize their teams’ performance.
+The article uses examples from companies like Google and Dell to show how this approach can improve people management. For instance, Google’s Project Oxygen used people analytics to identify the traits of great managers, which influenced managerial development company-wide. Relational analytics helps organizations go beyond surface-level metrics and dive deeper into the social connections that drive real value.
+
+
+## Article 3 - DaVita: A Community First, A Company Second
+
+DaVita’s turnaround under CEO Kent Thiry is a powerful case study of how corporate culture can drive both financial and operational success. Thiry took over in 1999 when the company was on the verge of bankruptcy. He introduced a "community first, company second" philosophy, which transformed DaVita into a thriving organization. At the core of this transformation was the creation of a strong organizational culture that prioritized values, mission, and shared responsibility.
+
+The company embraced a democratic approach to decision-making, allowing employees, known as "teammates" or "citizens," to participate in key decisions, such as selecting the company’s name and its core values. This sense of ownership fostered a unique bond between employees and the organization, which was critical in achieving high clinical outcomes, reducing patient mortality, and improving employee retention. DaVita's culture emphasized the importance of emotional connection and trust, which not only benefited patient care but also created a more fulfilling workplace.
+
+However, DaVita’s growth posed challenges, especially after the acquisition of HealthCare Partners, a different kind of medical service provider. The merger raised questions about whether DaVita’s values-driven culture could be successfully integrated into a new business line with different teammates and operating conditions. The case explores the potential risks and rewards of extending the DaVita culture into new areas of business, highlighting the importance of maintaining organizational values while pursuing growth
