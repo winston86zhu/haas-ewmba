@@ -282,3 +282,182 @@ Key Concepts:
 Example:
 Google discovered that employees with high-scoring managers reported higher satisfaction with innovation and career development. For instance, employees appreciated managers who provided stretch assignments to foster growth.
 
+## Week 6: Negotiation
+
+Negotiation is rarely a competition, but rather a collaboration to create value.
+> Many negotiations are **not zero-sum games**
+
+Major pitfalls in negotiation:
+1. **Winner's Curse**: Overpaying for an asset because you are too focused on winning the negotiation.
+2. **Agreement Bias**: Settling for worse terms than you could have gotten because you are too eager to reach an agreement.
+3. **Hubris**: Walking away from a deal despite the opportunity to improve your position.
+4. **Dynsfunctional rivalry**: Comparing your outcomes to others, rather than focusing on your own goals.
+
+> BATNA: Best Alternative to a Negotiated Agreement
+
+> Target point: The ideal outcome you would like to achieve.(ambitious yet plausible)
+
+Reservation price: You become indifferent between accepting the deal and walking away.
+* Should not change BATNA, but can be based on BATNA.
+
+ZOPA: Zone of Possible Agreement
+* Overlapping range of reservation prices for both parties.
+* in some cases, ZOPA may not exist.
+![alt text](./image/zopa.png)
+
+### Steps in Negotiation
+
+1. Establish interests 
+* positions: what you want
+* interests: why you want it
+* Multiple-issue agenda: Identify multiple issues to negotiate on.
+  * Breakdown single issue into multiple issues.
+  * Think of other interests and related issues.
+
+2. Develop a scoring system
+
+Try to quantify all issues in terms of common metrics (utility; dollar...). Then assign weights to each issue.
+  * e.g. Salary, vacation days, work hours, etc.
+
+Open the door for agent: allow someone else to go in and negotiate effectively on your behalf.
+
+3. Establish Bargining Points
+* BATNA
+* Reservation point: Know when to walk away.
+* Target point: Ideal outcome.
+
+4. Consider the other side 
+* Understand the other party's interests and see the world through their eyes.
+   * Interests and positions
+   * Their BATNA 
+   * Reveel their power --> Give you insight into their reservation point.
+   * Help you adjust your target point.
+
+5. Plan and practice 
+* Plan tactics
+  * e.g. Make the first offer, anchor high, etc.
+  * e.g. If they do X then I will do Y.
+* Planned questions and responses
+  * e.g. What is your budget?
+
+6. Make an offer
+* Advantages of making the first offer
+  * Anchor the negotiation
+  * Tend to lead to better outcomes
+* disadvantages of making the first offer
+  * If there is asymmetric information, you may reveal too much.
+> If you can make guess on their reservation point, you SHOULD make the first offer.
+
+## Week 7: Power and Persuasion in Organizations
+
+How do leaders shape behavior in organizations?
+
+1. By exercising power
+* Positional power: Power that comes from your position in the organization.
+* Reward power: Provide reward in exchange for compliance.
+* Coercive power: Punish for non-compliance by threatening punishment.
+* Expert power: Power that comes from your expertise.
+  * e.g. Doctors, lawyers, professors.
+* Referent power: Power that comes from being liked and respected.
+  * e.g. sam altman, elon musk.
+
+> Reward and coercive power may lead to compliance, but not engagement.
+
+> Expert and referent power creates more lasting influence because they are based on credibility and respect.
+
+2. By using persuasion
+* Persuasion leads to more voluntary cooperation and long-term commitment.
+
+> Leaders combine power with effective persuasion -> increase influence without resorting to coercion.
+
+### Persuading the un-persuadable
+
+1. Overconfident People
+* Let them recogize the gap by letting them teach/explain to you. 
+
+2. Stubborn People
+* Feeding them ideas (anchor) and let them build on them.
+
+3. Narcissists
+* Praise them in an area different from the one you want to influence.
+
+4. Disagreeable People
+* They dont want you to bend -> argue with them
+
+
+## Week 8: Social Networks
+
+Social networks are **invisible** and incredibly complex. Huge impact on professional success.
+
+What does network do
+* Access to opportunities, ideas and information.
+* Allow/prevent you from mobilizing others.
+* Influence your behavior and attitudes.
+
+Revere and Dawes Network 
+![alt text](./image/network.png)
+* Revere: High diversity, low redundancy, brokerage 
+* Dawes: Low diversity, high redundancy, closure with no brokerage
+
+Structural holes: Gaps between groups that can be bridged by a broker.
+
+### Strength of weak ties
+* Weak ties: Ties that are not strong, but provide access to new information. Weak ties are associated with:
+  * New job opportunities
+  * Promotion and salary increase
+  * Creatvity and innovation
+
+> Weak ties are more important than strong ties for accessing new information and opportunities.
+![alt text](./image/weak_tie.png)
+
+### Barrier to build diverse network
+* Homophily: Tendency to associate with similar others -> suppress opportunities to access new information.
+> People tend to connect with similar people not just because of homophily but also due to **social influence**. Social network may provide resources and also shape the beliefs and behaviors of its members.
+  * e.g. democratic social network -> more likely to be democratic.
+
+### Other stats 
+* Betweenness centrality: The extents which you act as a 'bridge' between two people in a network. 
+  * High betweenness centrality: You are a broker.
+
+* Eigenvector: Weight the people you are connected to by their own connections.
+  * High eigenvector centrality: You are connected to other well-connected people.
+
+* Constraint: The extent to which your connections are connected to each other.
+  * Lower constraint -> less overlap between your connections -> more diverse information.
+
+
+> Social influence in network may increase the inequality and unpredictability of outcomes.
+
+## Week 9: Organizational Culture
+
+> A strong culture is intensiely held and widely shared, and **consistently displayed**.
+
+Create a strong culture
+1. **Selection**: Hire people who fit the culture.
+2. **Socialization**: Teach the culture to new employees.
+  * e.g. Onboarding at Google
+3. **Selecctive Attrition**: Remove people who do not fit the culture.
+
+How does culture affect behavior?
+1. **Effective machanism of control**: Culture can be a powerful control mechanism.
+2. **Intrinsic motivation**: Culture can motivate employees to act in a certain way.
+3. **Shared Goal**: Increase commitment and to org-level goals.
+4. **Strategic position and differentiation**: Culture can fit org interests and employees' interests.
+
+Iceberg model of culture
+* **Artifacts**: Visible symbols of culture.
+  * e.g. Dress code, office layout, etc.
+* **Espoused Values**: Explicitly stated values and norms.
+* **Assumption**: Unconscious beliefs and values.
+  * e.g. Google's assumption: "We are a family"
+
+### Toxic Culture
+Toxic People: actions and behaviors that are harmful to others.
+Toxic Environment: Environment that is harmful to employees' well-being.
+
+> Some researches found that toxic workers are more productive than average workers, but the cost of their behavior outweighs the benefits.
+
+### key takeaways
+1. Successful leaders should actively shape and codify their organization's culture, enacting all levels. 
+2. Allign culture with organizational goals and values.
+3. Toxic people have long-lasting negative effects on the organization.
